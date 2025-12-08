@@ -1,2 +1,4 @@
 processed/
 .DS_Store
+models/
+test/
